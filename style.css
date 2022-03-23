@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif, Roboto;
+}
+.text-sec {
+  color: #ee4248;
+}
+.bg-red {
+  background-color: #ee4248;
+}
+.bg-gray {
+  background-color: #f7f7f7;
+}
+.bg-red-btn {
+  background-color: #ee4248;
+  border: none;
+}
